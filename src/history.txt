@@ -2,3 +2,4 @@
 ls
 clear
 ls
+pwd
